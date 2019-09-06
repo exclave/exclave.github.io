@@ -1,1 +1,6 @@
+name: Exclave factory test orchestrator
+markdown: kramdown
 theme: jekyll-theme-slate
+description: Exclave - Factory Tests Made Easy
+url: 'https://exclave.io'
+permalink: 'articles/:title/'
