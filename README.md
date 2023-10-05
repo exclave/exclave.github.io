@@ -1,7 +1,7 @@
 Exclave.io Site Source
 ===================
 
-This is the source code to [Exclave.io](https://exclave.io)
+This is the source code to [exclave.github.io](https://exclave.github.io)
 
 Developing Locally
 ------------------
